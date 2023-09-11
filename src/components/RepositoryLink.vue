@@ -2,7 +2,7 @@
   <div>
     <h1>Repository</h1>
     <p>Вы можете найти исходный код этого приложения на GitHub:</p>
-    <a class="github-link" href="https://github.com/vvvkks/Yandex-Mentor" target="_blank">Исходный код</a>
+    <a class="github-link" href="https://github.com/vvvkks/yandex-mentor" target="_blank">Исходный код</a>
   </div>
 </template>
 
