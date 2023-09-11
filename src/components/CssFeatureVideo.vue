@@ -11,7 +11,7 @@
     </div>
   </div>
   <div class="video-container">
-    <video src="../assets/video/css%20tutor.mp4" controls></video>
+    <video src="@/assets/video/css-tutor.mp4" controls></video>
   </div>
 </template>
 
